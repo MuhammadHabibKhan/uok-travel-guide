@@ -40,5 +40,5 @@ The complete instructions to use the app are provided in the text box to the lef
 
 ## Possible Improvements:
 - Dijkstra can be implemented using Adjacency List instead of Adjacency matrix to save computation and reduce time complexity since only the neighbors are required.
-- The alogrithm can also be implemented using Priority Queues to reduce the time complexity even further.
+- The algorithm can also be implemented using Priority Queues to reduce the time complexity even further.
 - Path tracing can be improved as suggested above.
