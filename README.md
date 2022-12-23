@@ -1,5 +1,7 @@
 # University of Karachi - Travel Guide
 
+Project Demo Video: https://youtu.be/pSEMFlLcpVI  
+
 A graphical user interface navigation application built for navigating between departments in University of Karachi. The backend works on single source shortest path greedy algorithm - Dijkstra Algorithm. The front end is built on a custom version of Tkinter by Tom Schimansky. Visit https://github.com/TomSchimansky/CustomTkinter for more details on Custom Tkinter. The entire thing is coded in Python. To run the project, download and run the 'proj.py' file. 
 
 ![Application](https://github.com/MuhammadHabibKhan/uok-travel-guide/blob/main/start.png)
