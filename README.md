@@ -24,3 +24,13 @@ The image attached below is the graph constructed for the 14 selected department
 
 ![Graph](https://github.com/MuhammadHabibKhan/uok-travel-guide/blob/main/Graph.png)
 
+Based on Dijkstra's Algorithm, a source department can be selected and the shortest path to the destination department is shown. The path traced is not through the proper roads that must be taken to reach the department but instead similar to how you would trace the shortest path in the graph attached above. Path tracing through roads can be added with some changes to the code and storing coordinates of each turn in the path and coordinates of road at the front of the department. An image attached below shows the working of the application.  
+
+The map widget of the custom tkinter provides the interactive map on the application with google's tile servers running at the background. Users may switch to google's satellite tile server using the 'Satellite View' button at the top right corner. 
+
+The complete instructions to use the app are provided in the text box to the left of the start screen below the introductory welcome message. Details about the application are also provided in the 'About' Tab. 
+
+##Possible Improvements:
+- Dijkstra can be implemented using Adjacency List instead of Adjacency matrix to save computation and reduce time complexity since only the neighbors are required.
+- The alogrithm can also be implemented using Priority Queues to reduce the time complexity even further.
+- Path tracing can be improved as suggested above.
