@@ -22,4 +22,4 @@ NOTE: Not all departments were mapped in this project. They can be easily added 
 
 The image attached below is the graph constructed for the 14 selected departments in University of Karachi.  
 
-![UoK Department sGraph](https://github.com/MuhammadHabibKhan/uok-travel-guide/Screenshot 2022-12-23 120532.png)
+![UoK Department sGraph](https://github.com/MuhammadHabibKhan/uok-travel-guide/Graph.png)
