@@ -21,3 +21,4 @@ pip install customtkinter
 NOTE: Not all departments were mapped in this project. They can be easily added by improving upon the existing graph and creating new vertices and edges, assigning weights according to the scale, noting down the new departments' coordinates and making those changes in the adjacency matrix in the code. 
 
 The image attached below is the graph constructed for the 14 selected departments in University of Karachi. 
+![UoK Departments Graph](Screenshot 2022-12-23 120532.png)
