@@ -6,7 +6,7 @@ Pre-Requisites:
 - Python.
 Visit https://www.python.org/downloads/ to download Python
 
-- Tkinter\n
+- Tkinter  
 Install pip first. Type the following in the command prompt.
 ```
 pip install tkinter
