@@ -26,7 +26,9 @@ The image attached below is the graph constructed for the 14 selected department
 
 ![Graph](https://github.com/MuhammadHabibKhan/uok-travel-guide/blob/main/Graph.png)
 
+
 Based on Dijkstra's Algorithm, a source department can be selected and the shortest path to the destination department is shown. The path traced is not through the proper roads that must be taken to reach the department but instead similar to how you would trace the shortest path in the graph attached above. Path tracing through roads can be added with some changes to the code and storing coordinates of each turn in the path and coordinates of road at the front of the department. An image attached below shows the working of the application.
+
 
 ![Graph](https://github.com/MuhammadHabibKhan/uok-travel-guide/blob/main/path.png)
 
